@@ -14,23 +14,6 @@ A simple and interactive whiteboard application built using Python and Tkinter. 
 
 ---
 
-## Installation
-
-1. Ensure you have Python installed on your system. You can download it from [Python.org](https://www.python.org/).
-
-2. Clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/whiteboard-app.git
-   cd whiteboard-app
-   ```
-
-3. Install the required libraries:
-
-   This application uses `tkinter`, which is included in the Python standard library. No additional installations are necessary.
-
----
-
 ## Usage
 
 1. Run the application:
